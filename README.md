@@ -1,2 +1,1 @@
-# TinDog
-TinDog Bootstrap Project (responsiveness)
+TinDog Starting Files
